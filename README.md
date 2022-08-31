@@ -11,4 +11,4 @@
 🌐  Check out my website: https://jingyumarcellee.gatsbyjs.io/<br/>
 
 [![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=apprentice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuMarcelLee&show_icons=true&theme=apprentice)]
