@@ -11,9 +11,7 @@
 🌐  Check out my website: https://jingyumarcellee.gatsbyjs.io/<br/>
 <br/>
 <br/>
-<p align="center">
 <a href="https://github.com/JingyuMarcelLee">
-  <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=dracula" />
 </a>
-</p>
