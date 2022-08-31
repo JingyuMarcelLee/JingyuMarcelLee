@@ -10,5 +10,5 @@
 📄  Feel free to take a look at my [resumé](Resume_JingyuLee.pdf). <br/>
 🌐  Check out my website: https://jingyumarcellee.gatsbyjs.io/<br/>
 
-[![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuMarcelLee&show_icons=true&theme=apprentice)]
+[![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=apprentice)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuMarcelLee&show_icons=true&theme=apprentice&layout=compact)]
