@@ -10,3 +10,4 @@
 📄  Feel free to take a look at my [resumé](Resume_JingyuLee.pdf). <br/>
 🌐  Check out my website: https://jingyumarcellee.gatsbyjs.io/<br/>
 
+[![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee)](https://github.com/anuraghazra/github-readme-stats)
