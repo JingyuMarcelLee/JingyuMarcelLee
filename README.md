@@ -12,6 +12,8 @@
 <br/>
 <br/>
 <p align="center">
-![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuMarcelLee&show_icons=true&theme=apprentice&layout=compact)
+<a href="https://github.com/JingyuMarcelLee">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thoang43&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=noctis_minimus"/>
+</a>
 </p>
