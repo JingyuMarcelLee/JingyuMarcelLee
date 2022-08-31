@@ -12,6 +12,6 @@
 <br/>
 <br/>
 <a href="https://github.com/JingyuMarcelLee">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars" />
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=dracula" />
+  <img width=480em src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars" />
+  <img width=350em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=dracula" />
 </a>
