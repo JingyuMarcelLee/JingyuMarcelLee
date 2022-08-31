@@ -11,6 +11,7 @@
 🌐  Check out my website: https://jingyumarcellee.gatsbyjs.io/<br/>
 <br/>
 <br/>
-
+<p align="center">
 ![JingyuMarcelLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuMarcelLee&show_icons=true&theme=apprentice&layout=compact)
+</p>
