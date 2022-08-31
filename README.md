@@ -13,7 +13,8 @@
 <br/>
 <p align="center">
 <a href="https://github.com/JingyuMarcelLee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
+  <label><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JingyuMarcelLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JingyuMarcelLee&layout=compact&langs_count=8&theme=dracula"/>
+  </label>
 </a>
 </p>
