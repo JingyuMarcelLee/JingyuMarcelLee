@@ -8,7 +8,7 @@
 💞️  I’m looking to collaborate on open source projects.<br/>
 📫  You can reach me at: leejg1006@gmail.com.<br/>
 📄  Feel free to take a look at my [resumé](Resume_JingyuLee.pdf). <br/>
-🌐  Check out my website: https://jingyumarcellee.com/<br/>
+🌐  Check out my website: https://jingyumarcellee.com/.<br/>
 <br/>
 <br/>
 <a href="https://github.com/JingyuMarcelLee">
