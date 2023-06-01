@@ -2,6 +2,7 @@
 
 ### **👨🏻‍💻  About Me**<br/>
 
+💻  I'm working @InterSystems this summer as Financial Solutions Devleper Intern. <br/>
 🎓  I'm currently studying Computer Science and Quantitative Economics at Dickinson College.<br/>
 🌱  I’m interested in software development and quantitative research.<br/>
 🍸  My hobbie is mixing cocktails. My favorite is 🍈 Midori sour. <br/>
