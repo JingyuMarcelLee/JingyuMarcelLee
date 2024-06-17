@@ -4,7 +4,7 @@
 
 💻  I am a software developer @InterSystems. <br/>
 🎓  I studied Computer Science and Quantitative Economics at Dickinson College.<br/>
-🌱  I’m interested in software development and quantitative research.<br/>
+🌱  I’m interested in software engineering and quantitative research.<br/>
 🍸  My hobbie is mixing cocktails. My favorite is 🍈 Midori sour. <br/>
 💞️  I’m looking to collaborate on open source projects.<br/>
 📫  You can reach me at: leejg1006@gmail.com.<br/>
